@@ -1,0 +1,41 @@
+                                        ------------------------------------------------------------
+                                            CYPHER SCHOOL GOLANG RECURSION QUESTION BY RAHUL SIR
+                                        ------------------------------------------------------------
+
+1. Take as input N, a number. Print odd numbers in decreasing sequence (up until 0) and even numbers in increasing sequence 
+(up until N). E.g. for N = 6 print 5, 3, 1, 2, 4
+-----------------------------------------------------------------------------------------------------------------------------------
+2. Take as input N, a number. Write a recursive function to find Nth triangle where 1st triangle is 1, 2nd triangle is 1 + 2 = 3, 
+3rd triangle is 1 + 2 + 3 = 6, so on and so forth. Print the value returned.
+-----------------------------------------------------------------------------------------------------------------------------------
+3. Take as input N, the size of array. Take N more inputs and store that in an array. Write a recursive function which returns true 
+if the array is sorted and false otherwise. Print the value returned.
+-----------------------------------------------------------------------------------------------------------------------------------
+4. Take as input N, the size of array. Take N more inputs and store that in an array. Take as input M, a number. Write a recursive 
+function which returns true if M is contained in the array and false otherwise. Print the value returned.
+-----------------------------------------------------------------------------------------------------------------------------------
+5. Take as input N, the size of array. Take N more inputs and store that in an array. Take as input M, a number. Write a recursive 
+function which returns the first index at which M is found in the array and -1 if M is not found anywhere. Print the value returned.
+-----------------------------------------------------------------------------------------------------------------------------------
+6. Take as input N, the size of array. Take N more inputs and store that in an array. Take as input M, a number. Write a recursive 
+function which returns the last index at which M is found in the array and -1 if M is not found anywhere. Print the value returned.
+-----------------------------------------------------------------------------------------------------------------------------------
+7. Take as input N, the size of array. Take N more inputs and store that in an array. Take as input M, a number. Write a recursive
+function which returns an array containing indices of all items in the array which have value equal to M. Print all the values in
+the returned array.
+-----------------------------------------------------------------------------------------------------------------------------------
+8. Take as input N, a number. Take N more inputs and store that in an array. Write a recursive function which tests if the array
+is a palindrome and returns a Boolean value. Print the value returned.
+-----------------------------------------------------------------------------------------------------------------------------------
+9. Take as input N, a number. Take N more inputs and store that in an array. Write a recursive function which reverses the array.
+Print the values of reversed array.
+-----------------------------------------------------------------------------------------------------------------------------------
+10. Take as input N, a number. Take N more inputs and store that in an array. Write a recursive function which inverses the array.
+Print the values of inverted array.
+-----------------------------------------------------------------------------------------------------------------------------------
+11. Take as input N, the size of array. Take N more inputs and store that in an array. Take as input M, a number. Write a recursive
+function which bubble sorts the given array. Print all the values in the sorted array. 
+-----------------------------------------------------------------------------------------------------------------------------------
+12. Take as input N, the size of array. Take N more inputs and store that in an array. Take as input M, a number. Write a recursive 
+function which selection sorts the given array. Print all the values in the sorted array.  
+-----------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+BASIC GIT COMMMANDS :
+
+ls ----> show all the files in the directory
+cd ----> change the directory
+git clone ----> To clone any repository from git to local
+git add ----> To add any file to the git repository
+git commit ----> To commit some file to the repository
+    -m ----> Add some message during commit
+git push ----> To push the code into the repository
+

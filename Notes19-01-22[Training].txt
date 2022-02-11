@@ -1,0 +1,74 @@
+INTRODUCTION :
+
+It is a functional programming language not an object oriented language.
+- java 11 has already startrd making a shift towards functional programming.
+
+Two types of data types
+1. Primitive (inbuilt)
+int, float64, string, bool, complex
+2. Non-Primitive (derieved)
+struct[like a class in java], array, interface, slice [basically arrayList(dynamic size array)], rune, reflect, pointer,chan
+
+DECLARATION OF VARIABLE : 
+
+var data int
+data =10
+
+OR 
+
+data := 10 // ':' means declaration(automatic)
+
+For string we have to declare it within " "
+Example :
+data := "Abhijit"
+
+TAKING INPUT FROM USER :
+
+declare a variable and use scanln to fetch the input
+Example :
+var input int
+fmt.Scanln(&input)
+
+CONTROLS IN GOLANG:
+
+1. if statement
+    if(condition){
+        //statement
+    }
+
+2. if-else statement
+    if(condition){
+        //statement
+    }
+    else{
+        //statement
+    }
+
+3. switch statement
+    switch(data){
+        case var1:
+            //statement
+        case var2:
+            //statement
+        default:
+            //statement
+    }
+// no break statement is required in GOLang
+// if case is not present in the switch them it prints nothing 
+To avoid such circumstances we use default parameter
+// if we want GoLang to execute the next also we use fallthrough(It is just like continue)
+
+LOOPS :
+
+1. For Loops
+    Same as java 
+    for i:=0; i<3;i++ {
+        //statement
+    }
+    //similary nested is also supported
+
+2. For Conditioned Loops
+    There is no while loop in Go insted we use For
+    For(condition){
+        //statement
+    }
